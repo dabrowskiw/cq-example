@@ -27,3 +27,14 @@ This creates a new branch wherever HEAD is, e.g.:
 git checkout -b feature_branching
 ```
 
+### git commit
+
+Commits are now going to happen on the newly created branch
+
+### git push
+
+The first time a branch is pushed, it needs to be done explicitly, e.g.:
+
+```sh
+git push --set-upstream origin feature_branching
+```
