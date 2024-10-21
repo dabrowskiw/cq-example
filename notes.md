@@ -1,4 +1,11 @@
+---
+geometry: margin=25mm
+colorlinks: true
+---
+
 # Git notes
+
+These are notes for [git](https://git-scm.com/)
 
 ## git add
 
