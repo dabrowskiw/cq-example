@@ -11,7 +11,7 @@ These are notes for [git](https://git-scm.com/)
 
 ### git add
 
-This adds a file or many files to the staging area.
+This adds a file or many files that are funny to the staging area.
 
 ```sh
 git add <filename>
