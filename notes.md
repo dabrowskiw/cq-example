@@ -7,7 +7,9 @@ colorlinks: true
 
 These are notes for [git](https://git-scm.com/)
 
-## git add
+## General commands
+
+### git add
 
 This adds a file or many files to the staging area.
 
