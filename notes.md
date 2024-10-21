@@ -17,4 +17,13 @@ git add <filename>
 
 In the above command, there can be one or more file names.
 
+## Branching command
+
+### git checkout -b
+
+This creates a new branch wherever HEAD is, e.g.:
+
+```sh
+git checkout -b feature_branching
+```
 
